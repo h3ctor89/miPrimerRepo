@@ -28,3 +28,6 @@ C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0
 C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0\probando.pdb
 C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0\probando.genruntimeconfig.cache
 C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0\ref\probando.dll
+C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0\probando.csproj.AssemblyReference.cache
+C:\Users\hecto\Documents\Platzi\miPrimerRepo\Proyecto1\probando\obj\Debug\net8.0\probando.csproj.Up2Date
